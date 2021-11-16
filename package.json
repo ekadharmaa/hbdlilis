@@ -1,0 +1,21 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Eka Dharma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ekadharmaa"
+  },
+  "homepage": "https://github.com/ekadharmaa",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
